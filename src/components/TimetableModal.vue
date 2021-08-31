@@ -7,7 +7,9 @@
       'show': boxShow ? true : false,
     }">
       <header class="header">
-        <div class="title">{{ date }}</div>
+        <div class="title">
+          {{ dateString(date) }} {{ time }} <span class="red">{{ amPm(time) }}</span>
+        </div>
       </header>
       <div class="container">
         <div class="teacher" v-for="teacher in teachers" v-bind:key="teacher.name"
@@ -144,12 +146,20 @@ export default defineComponent({
   }),
 
   methods: {
-    dateString(date: Date) {
+    dateString(date: Date): string {
       let str = '';
       str += date.getMonth().toString() + '월';
       str += date.getDate().toString() + '일';
 
       return str;
+    },
+
+    amPm(time: string): string {
+      const hour: number = Number(time.split(':'));
+      if (hour < 12) {
+        return '오전';
+      }
+      return '오후';
     },
   },
 
