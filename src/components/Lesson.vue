@@ -23,7 +23,7 @@
             </div>
             <div class="card-content">
               <div class="title">
-                <div class="level">{{ course.level }}</div>
+                <Badge :title="course.level" :color="course.badgeColor" />
                 <div class="content bold">{{ course.title }}</div>
               </div>
               <div class="description">
@@ -48,12 +48,14 @@
 
 <script>
 import { defineComponent } from 'vue'
+import Badge from './Badge.vue';
 
 import LessonModal from './LessonModal.vue'
 
 export default defineComponent({
   components: {
     LessonModal,
+    Badge,
   },
 
   setup() {
@@ -66,27 +68,59 @@ export default defineComponent({
     courses: [
       {
         level: '초급',
+        badgeColor: '#19c79c',
         title: '디테일로 익히는 기초',
-        description: '병원 \'예약\'은 reservation이 아니라고?\n아주 간단한 대화만 가능한 분',
         target: '아주 간단한 대화만 가능한 분',
         detail: '병원 \'예약\'은 reservation이 아니라고?',
         image: 'https://cdn1.langdy.net/images/lesson_page/english_63.gif',
+        lessons: [
+          {
+            number: 301,
+            description: '병원 \'예약\'은 reservation이 아니라고?',
+          },
+          {
+            number: 302,
+            description: 'anything / something to drink, 차이는? ',
+          },
+          {
+            number: 303,
+            description: 'it은 \'그것\'이란 뜻으로만 쓰는 게 아니라고? ',
+          },
+          {
+            number: 304,
+            description: 'to는 \'~에게\'란 뜻으로만 쓰는 게 아니라고?',
+          },
+          {
+            number: 305,
+            description: '\'칼로 잘랐다\'는 by or with a knife? ',
+          },
+          {
+            number: 306,
+            description: '노래 잘한다, you sing well로는 부족하다? ',
+          },
+          {
+            number: 307,
+            description: 'take와 bring은 어떻게 구분해서 쓸까?',
+          },
+        ],
       },
       {
         level: '초중급',
+        badgeColor: '#12afb4',
         title: '디테일을 살리는 회화',
-        description: 'hard to me와 hard for me의 차이는?\n일상 생활 속 대화가 가능한 분',
         target: '일상 생활 속 대화가 가능한 분',
         detail: 'hard to me와 hard for me의 차이는?',
         image: 'https://cdn1.langdy.net/images/lesson_page/english_64.gif',
+        lessons: [],
       },
       {
         level: '중급',
+        badgeColor: '#2a89be',
         title: '디테일로 완성하는 회화',
-        description: 'around로 \'반대로\'를 말할 수 있다고?\n익숙한 주제의 대화가 가능한 분',
         target: '익숙한 주제의 대화가 가능한 분',
         detail: 'around로 \'반대로\'를 말할 수 있다고?',
         image: 'https://cdn1.langdy.net/images/lesson_page/english_65.gif',
+        lessons: [],
       },
     ],
   }),
@@ -170,6 +204,11 @@ export default defineComponent({
 
       .card-content {
         .title {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: center;
+
           .level {
             display: inline-block;
             background-color: #19c79c;
@@ -180,6 +219,7 @@ export default defineComponent({
           
           .content {
             display: inline-block;
+            margin-left: 4px;
           }
         }
 

@@ -1,15 +1,12 @@
 <template>
-  <Lesson />
+  <router-view />
 </template>
 
 <script>
-import Lesson from './components/Lesson.vue'
-
 export default {
   name: 'App',
   components: {
-    Lesson,
-  }
+  },
 }
 </script>
 
@@ -43,8 +40,18 @@ html, body {
   color: #c18425;
 }
 
+.purple {
+  color: #9a6dff;
+}
+
 .flex-center {
   display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.inline-flex-center {
+  display: inline-flex;
   align-items: center;
   justify-content: center;
 }
