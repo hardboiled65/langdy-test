@@ -1,0 +1,617 @@
+{
+    "english_4": {
+        "subject": "한국적 사고 버리기",
+        "level": {
+            "4": "초중급"
+        },
+        "target": "일상 생활 속 대화가 가능한 분",
+        "detail": "초중급 73%가 쓰는 콩글리쉬 클리닉",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_5": {
+        "subject": "네이티브 사고 시작하기",
+        "level": {
+            "5": "중급"
+        },
+        "target": "익숙한 주제의 대화가 가능한 분",
+        "detail": "해외 살다 오셨어요? 소리 듣는 표현",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_6": {
+        "subject": "네이티브 사고 따라잡기",
+        "level": {
+            "6": "중고급"
+        },
+        "target": "다양한 상황에서 대화가 가능한 분",
+        "detail": "네이티브로 오해받는 다양한 표현",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_7": {
+        "subject": "네이티브 사고 마스터",
+        "level": {
+            "7": "고급"
+        },
+        "target": "주제 무관 능통한 대화가 가능한 분",
+        "detail": "네이티브마저 넘어서는 표현",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_12": {
+        "inactive": "inactive",
+        "subject": "바로 쓰는 패턴 첫걸음",
+        "level": {
+            "2": "기초"
+        },
+        "target": "&nbsp;",
+        "detail": "&nbsp;",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_13": {
+        "subject": "바로 쓰는 패턴 도약",
+        "level": {
+            "3": "초급"
+        },
+        "target": "아주 간단한 대화만 가능한 분",
+        "detail": "이 패턴만 알면 일상 회화 easy~",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_14": {
+        "subject": "바로 쓰는 패턴 마무리",
+        "level": {
+            "4": "초중급"
+        },
+        "target": "일상 생활 속 대화가 가능한 분",
+        "detail": "영어 패턴은 여기서 끝낸다.",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_24": {
+        "subject": "편안한 수다",
+        "level": {
+            "4": "초중급",
+            "5": "중급"
+        },
+        "target": "일상 생활 속 대화가 가능한 분",
+        "detail": "여행, 취미 등 편안한 토픽의 suda",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "video": "content-2-0",
+                "script": "content-2-1"
+            }
+        ]
+    },
+    "english_25": {
+        "subject": "흥미로운 수다",
+        "level": {
+            "5": "중급",
+            "6": "중고급"
+        },
+        "target": "익숙한 주제의 대화가 가능한 분",
+        "detail": "패션, 예술 등 흥미로운 토픽의 suda",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "video": "content-2-0",
+                "script": "content-2-1"
+            }
+        ]
+    },
+    "english_26": {
+        "subject": "깊이있는 수다",
+        "level": {
+            "6": "중고급",
+            "7": "고급"
+        },
+        "target": "다양한 상황에서 대화가 가능한 분",
+        "detail": "환경, 사회 등 깊이있는 토픽의 suda",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "video": "content-2-0",
+                "script": "content-2-1"
+            }
+        ]
+    },
+    "english_34": {
+        "subject": "진저와 진짜 미국 만나기",
+        "level": {
+            "4": "초중급"
+        },
+        "target": "일상 생활 속 대화가 가능한 분",
+        "detail": "미쿡에선 <span class='bold'>very</span> 보다 는 <span class='bold'>oo</span>라고 하죠~",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_35": {
+        "subject": "진저와 진짜 미국 느끼기",
+        "level": {
+            "5": "중급"
+        },
+        "target": "익숙한 주제의 대화가 가능한 분",
+        "detail": "<span class='bold'>꼽사리끼다</span>는 어떻게  말할까요?",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_36": {
+        "subject": "진저와 진짜 미국 살기",
+        "level": {
+            "6": "중고급"
+        },
+        "target": "다양한 상황에서 대화가 가능한 분",
+        "detail": "<span class='bold'>backseat driver</span>가 뒷자리 운전자?!",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-2",
+                "script": "content-2-3"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-4",
+                "script": "content-2-5"
+            },
+            {
+                "en": "content-2-0",
+                "ko": "content-2-1",
+                "video": "content-2-6",
+                "script": "content-2-7"
+            }
+        ]
+    },
+    "english_43": {
+        "subject": "Biz 기초 표현",
+        "level": {
+            "3": "초급",
+            "4": "초중급"
+        },
+        "target": "아주 간단한 대화만 가능한 분",
+        "detail": "<span class='bold'>통화</span>, <span class='bold'>공항</span> 등 <span class='bold'>기초</span> 비즈니스 회화",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-1-1",
+                "ko": "content-1-2",
+                "video": "content-1-0",
+                "script": "content-1-3"
+            },
+            {
+                "en": "content-1-5",
+                "ko": "content-1-6",
+                "video": "content-1-4",
+                "script": "content-1-7"
+            },
+            {
+                "en": "content-1-9",
+                "ko": "content-1-10",
+                "video": "content-1-8",
+                "script": "content-1-11"
+            }
+        ]
+    },
+    "english_44": {
+        "subject": "Biz 유용한 표현",
+        "level": {
+            "4": "초중급",
+            "5": "중급"
+        },
+        "target": "일상 생활 속 대화가 가능한 분",
+        "detail": "<span class='bold'>거래처</span>, <span class='bold'>전략회의</span> 등 <span class='bold'>중급</span> 비즈니스 회화",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-1-1",
+                "ko": "content-1-2",
+                "video": "content-1-0",
+                "script": "content-1-3"
+            },
+            {
+                "en": "content-1-5",
+                "ko": "content-1-6",
+                "video": "content-1-4",
+                "script": "content-1-7"
+            },
+            {
+                "en": "content-1-9",
+                "ko": "content-1-10",
+                "video": "content-1-8",
+                "script": "content-1-11"
+            }
+        ]
+    },
+    "english_46": {
+        "subject": "Biz 고급 표현",
+        "level": {
+            "6": "중고급",
+            "7": "고급"
+        },
+        "target": "다양한 상황에서 대화가 가능한 분",
+        "detail": "<span class='bold'>매출</span>, <span class='bold'>재정난</span> 등 <span class='bold'>고급</span> 비즈니스 회화",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-1-1",
+                "ko": "content-1-2",
+                "video": "content-1-0",
+                "script": "content-1-3"
+            },
+            {
+                "en": "content-1-5",
+                "ko": "content-1-6",
+                "video": "content-1-4",
+                "script": "content-1-7"
+            },
+            {
+                "en": "content-1-9",
+                "ko": "content-1-10",
+                "video": "content-1-8",
+                "script": "content-1-11"
+            }
+        ]
+    },
+    "english_47": {
+        "inactive": "inactive",
+        "subject": "비즈니스 이메일(임시)",
+        "level": {
+            "5": "중급",
+            "6": "중고급",
+            "7": "고급"
+        },
+        "target": "비즈니스",
+        "detail": "비즈니스",
+        "main_exp_indexes": []
+    },
+    "english_53": {
+        "subject": "회화용 문법 바이블 I",
+        "level": {
+            "3": "초급"
+        },
+        "target": "아주 간단한 대화만 가능한 분",
+        "detail": "몇살이야는 아는데 몇살같아는!?",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-1-1",
+                "ko": "content-1-2",
+                "video": "content-1-0",
+                "script": "content-1-3"
+            },
+            {
+                "en": "content-1-5",
+                "ko": "content-1-6",
+                "video": "content-1-4",
+                "script": "content-1-7"
+            },
+            {
+                "en": "content-1-9",
+                "ko": "content-1-10",
+                "video": "content-1-8",
+                "script": "content-1-11"
+            }
+        ]
+    },
+    "english_54": {
+        "subject": "회화용 문법 바이블 II",
+        "level": {
+            "4": "초중급"
+        },
+        "target": "일상 생활 속 대화가 가능한 분",
+        "detail": "believe you와 believe in you는 다르다!?",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-1-1",
+                "ko": "content-1-2",
+                "video": "content-1-0",
+                "script": "content-1-3"
+            },
+            {
+                "en": "content-1-5",
+                "ko": "content-1-6",
+                "video": "content-1-4",
+                "script": "content-1-7"
+            },
+            {
+                "en": "content-1-9",
+                "ko": "content-1-10",
+                "video": "content-1-8",
+                "script": "content-1-11"
+            }
+        ]
+    },
+    "english_55": {
+        "subject": "회화용 문법 바이블 III",
+        "level": {
+            "5": "중급"
+        },
+        "target": "익숙한 주제의 대화가 가능한 분",
+        "detail": "하라고 시키다는 order가 아니다?!",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-1-1",
+                "ko": "content-1-2",
+                "video": "content-1-0",
+                "script": "content-1-3"
+            },
+            {
+                "en": "content-1-5",
+                "ko": "content-1-6",
+                "video": "content-1-4",
+                "script": "content-1-7"
+            },
+            {
+                "en": "content-1-9",
+                "ko": "content-1-10",
+                "video": "content-1-8",
+                "script": "content-1-11"
+            }
+        ]
+    },
+    "english_63": {
+        "subject": "디테일로 익히는 기초",
+        "level": {
+            "3": "초급"
+        },
+        "target": "아주 간단한 대화만 가능한 분",
+        "detail": "병원 '예약'은 reservation이 아니라고?",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-1-1",
+                "ko": "content-1-2",
+                "video": "content-1-0",
+                "script": "content-1-3"
+            },
+            {
+                "en": "content-1-5",
+                "ko": "content-1-6",
+                "video": "content-1-4",
+                "script": "content-1-7"
+            },
+            {
+                "en": "content-1-9",
+                "ko": "content-1-10",
+                "video": "content-1-8",
+                "script": "content-1-11"
+            }
+        ]
+    },
+    "english_64": {
+        "subject": "디테일을 살리는 회화",
+        "level": {
+            "4": "초중급"
+        },
+        "target": "일상 생활 속 대화가 가능한 분",
+        "detail": "hard to me와 hard for me의 차이는?",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-1-1",
+                "ko": "content-1-2",
+                "video": "content-1-0",
+                "script": "content-1-3"
+            },
+            {
+                "en": "content-1-5",
+                "ko": "content-1-6",
+                "video": "content-1-4",
+                "script": "content-1-7"
+            },
+            {
+                "en": "content-1-9",
+                "ko": "content-1-10",
+                "video": "content-1-8",
+                "script": "content-1-11"
+            }
+        ]
+    },
+    "english_65": {
+        "subject": "디테일로 완성하는 회화",
+        "level": {
+            "5": "중급"
+        },
+        "target": "익숙한 주제의 대화가 가능한 분",
+        "detail": "around로 '반대로'를 말할 수 있다고?",
+        "all_in_langdy": true,
+        "main_exp_indexes": [
+            {
+                "en": "content-1-1",
+                "ko": "content-1-2",
+                "video": "content-1-0",
+                "script": "content-1-3"
+            },
+            {
+                "en": "content-1-5",
+                "ko": "content-1-6",
+                "video": "content-1-4",
+                "script": "content-1-7"
+            },
+            {
+                "en": "content-1-9",
+                "ko": "content-1-10",
+                "video": "content-1-8",
+                "script": "content-1-11"
+            }
+        ]
+    }
+}

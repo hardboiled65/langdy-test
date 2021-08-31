@@ -1,0 +1,71 @@
+{
+    "0": {
+        "subject": "두뇌 표현 코스",
+        "courses": [
+            "english_4",
+            "english_5",
+            "english_6",
+            "english_7"
+        ]
+    },
+    "1": {
+        "subject": "바로 쓰는 패턴 코스",
+        "courses": [
+            "english_13",
+            "english_14"
+        ]
+    },
+    "2": {
+        "subject": "토픽 수다 코스",
+        "courses": [
+            "english_24",
+            "english_25",
+            "english_26"
+        ]
+    },
+    "3": {
+        "subject": "진저 코스",
+        "courses": [
+            "english_34",
+            "english_35",
+            "english_36"
+        ],
+        "youtuber": "jinger",
+        "youtuber_ko": "진저쌤",
+        "pc_subject_detail": "네이티브 표현만 친절한 설명으로!",
+        "pc_subject_title": "플로리다 잉글리쉬 진저쌤"
+    },
+    "4": {
+        "subject": "비즈니스 코스",
+        "courses": [
+            "english_43",
+            "english_44",
+            "english_46"
+        ]
+    },
+    "5": {
+        "subject": "에릭 코스",
+        "courses": [
+            "english_53",
+            "english_54",
+            "english_55"
+        ],
+        "youtuber": "eric",
+        "youtuber_ko": "에릭쌤",
+        "pc_subject_detail": "하우위잉글리쉬 X 랭디 프로젝트!",
+        "pc_subject_title": "문법&회화 일타 에릭쌤"
+    },
+    "6": {
+        "subject": "지후 코스",
+        "courses": [
+            "english_63",
+            "english_64",
+            "english_65"
+        ],
+        "youtuber": "jihu",
+        "youtuber_ko": "지후쌤",
+        "pc_subject_detail": "파고다 X 랭디 프로젝트!",
+        "pc_subject_title": "지후 코스"
+    }
+}
+
