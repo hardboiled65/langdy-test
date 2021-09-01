@@ -284,6 +284,7 @@ export default defineComponent({
   border: 1px solid black;
   border-collapse: collapse;
   margin: 0 auto;
+  margin-bottom: 12px;
 
   tr {
     background-color: #eeeeee;
