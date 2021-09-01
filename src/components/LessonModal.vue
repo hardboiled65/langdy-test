@@ -107,6 +107,9 @@ export default defineComponent({
   .header {
     background-color: #fafafa;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    padding: 14px;
   }
 
   .container {

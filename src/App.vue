@@ -1,15 +1,18 @@
 <template>
   <Breadcrumb />
+  <BackButton />
   <router-view />
 </template>
 
 <script>
 import Breadcrumb from './components/Breadcrumb.vue'
+import BackButton from './components/BackButton.vue'
 
 export default {
   name: 'App',
   components: {
     Breadcrumb,
+    BackButton,
   },
 }
 </script>

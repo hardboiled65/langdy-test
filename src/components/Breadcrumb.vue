@@ -23,7 +23,6 @@ export default defineComponent({
 
   computed: {
     progress(): number {
-      console.log(this.$route.path);
       if (this.$route.path === '/') {
         return 0;
       } else if (this.$route.path === '/timetable') {

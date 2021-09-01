@@ -111,7 +111,16 @@ export default defineComponent({
         target: '일상 생활 속 대화가 가능한 분',
         detail: 'hard to me와 hard for me의 차이는?',
         image: 'https://cdn1.langdy.net/images/lesson_page/english_64.gif',
-        lessons: [],
+        lessons: [
+          {
+            number: 401,
+            description: '두 문장도 귀찮다 하나만 쓰자 (1) - who',
+          },
+          {
+            number: 402,
+            description: '두 문장도 귀찮다 하나만 쓰자 (2) - that',
+          },
+        ],
       },
       {
         level: '중급',
@@ -120,7 +129,16 @@ export default defineComponent({
         target: '익숙한 주제의 대화가 가능한 분',
         detail: 'around로 \'반대로\'를 말할 수 있다고?',
         image: 'https://cdn1.langdy.net/images/lesson_page/english_65.gif',
-        lessons: [],
+        lessons: [
+          {
+            number: 501,
+            description: 'even if vs. even though가 다르다고?',
+          },
+          {
+            number: 502,
+            description: 'around로 \'코앞에, 반대로\' 말하기',
+          },
+        ],
       },
     ],
   }),
