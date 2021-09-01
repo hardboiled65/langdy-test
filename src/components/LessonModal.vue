@@ -12,11 +12,12 @@
       </header>
       <div class="container">
         <div class="lesson" v-for="lesson in course.lessons" v-bind:key="lesson.number"
-          v-on:click="selectedLessonNumber = lesson.number">
+          v-on:click="onClickLesson(lesson)">
           <Badge :title="lesson.number" :color="course.badgeColor" />
           <div class="description">{{ lesson.description }}</div>
           <div class="select-button flex-center"
             v-if="lesson.number === selectedLessonNumber"
+            v-on:click="onSelectLesson"
           >선택하기</div>
         </div>
       </div>
@@ -60,8 +61,14 @@ export default defineComponent({
   },
 
   methods: {
-    onClickLesson(number) {
-      this.selectedLessonNumber = number;
+    onClickLesson(lesson) {
+      this.selectedLessonNumber = lesson.number;
+      this.$store.commit('setSelectedLesson', lesson);
+      this.$store.commit('setSelectedLessonBadgeColor', this.course.badgeColor);
+    },
+
+    onSelectLesson() {
+      this.$router.push('/timetable');
     },
   },
 })

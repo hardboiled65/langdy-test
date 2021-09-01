@@ -13,7 +13,7 @@
       </header>
       <div class="container">
         <div class="teacher" v-for="teacher in teachers" v-bind:key="teacher.name"
-          v-on:click="false">
+          v-on:click="onSelectTeacher(teacher)">
           <div class="profile-wrapper">
             <div class="profile-picture">
               <img :src="teacher.profilePicture" />
@@ -160,6 +160,13 @@ export default defineComponent({
         return '오전';
       }
       return '오후';
+    },
+
+    onSelectTeacher(teacher: object) {
+      this.$store.commit('setSelectedDate', this.date);
+      this.$store.commit('setSelectedTime', this.time);
+      this.$store.commit('setSelectedTeacher', teacher);
+      this.$router.push('/submit-lesson');
     },
   },
 
