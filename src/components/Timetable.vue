@@ -274,6 +274,8 @@ export default defineComponent({
 
 <style lang="scss">
 .timetable {
+  background-color: #fffdfa;
+
   .title {
     font-size: 12px;
   }

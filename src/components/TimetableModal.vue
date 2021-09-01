@@ -171,7 +171,9 @@ export default defineComponent({
   },
 
   mounted() {
-    this.boxShow = true;
+    setTimeout(() => {
+      this.boxShow = true;
+    }, 100);
   },
 
   beforeUnmount() {
