@@ -280,13 +280,20 @@ export default defineComponent({
 }
 .table {
   border: 1px solid black;
+  border-collapse: collapse;
+  margin: 0 auto;
 
   tr {
-    background-color: lightgrey;
+    background-color: #eeeeee;
+  }
+
+  th, td {
+    border: 1px solid grey;
   }
 
   .date-pick {
     width: 100px;
+    background-color: #ffffff;
 
     &:hover {
       background-color: #9a6dff;

@@ -1,11 +1,15 @@
 <template>
+  <Breadcrumb />
   <router-view />
 </template>
 
 <script>
+import Breadcrumb from './components/Breadcrumb.vue'
+
 export default {
   name: 'App',
   components: {
+    Breadcrumb,
   },
 }
 </script>
