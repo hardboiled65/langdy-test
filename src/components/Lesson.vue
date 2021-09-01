@@ -173,10 +173,21 @@ export default defineComponent({
         background-color: white;
 
         .box-title {
+          position: relative;
+
+          .title-img {
+            position: absolute;
+            left: 10px;
+            top: -55px;
+          }
+          
           .course-title {
             display: inline-block;
-            border-left: 1px solid #c18425;
-            border-right: 1px solid #c18425;
+            border-left: 2px solid #c18425;
+            border-right: 2px solid #c18425;
+            padding: 0 10px;
+            margin-bottom: 10px;
+            font-size: 1.64rem;
           }
         }
       }
